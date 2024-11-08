@@ -1,0 +1,4 @@
+{
+  "watch": ["core", "controller", "routes", "middleware", "config"],
+  "exec": "node core/app.js"
+}
